@@ -13,7 +13,7 @@ We’ll also spend a lot of time talking about design and storytelling, and how 
 
 ##### Course goals:
 * Learn the skills to make things for the web, We’ll cover the holy trinity of HTML, CSS and JavaScript, how to save and manage your code with Git, and how to work with tools and libraries that help us make charts, maps and other cool things.
-* Work together to find stories in data and learn how to apply it to web projects.
+* Work together to find stories in data and learn how to apply our data to web projects.
 * Increase our collective vocabulary for design and interaction while exploring the relationship between content and readers for the web.
 
 ---
