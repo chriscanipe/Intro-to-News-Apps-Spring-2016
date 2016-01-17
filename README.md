@@ -1,6 +1,6 @@
 ## Intro-to-News-Apps-Spring-2016
  
-**Instructor**: Chris Canipe, ccanipe@gmail.com<br/>
+**Instructor**: Chris Canipe, ccanipe@gmail.com  
 **Office hours**: By appointment
  
 
@@ -26,11 +26,11 @@ We’ll also spend a lot of time talking about design and storytelling, and how 
 
 	* Peruse and be prepared to discuss examples from the last year in news apps:
 
-	[New York Times, 2015: The Year in Visual Stories and Graphics](http://www.nytimes.com/interactive/2015/us/year-in-interactive-storytelling.html?_r=0)<br/>
-	[The Wall Street Journal, 2015: The Year in Interactive Graphics](http://graphics.wsj.com/wsj-interactives-2015/)<br/>
-	[LA Times, 2015: The year in graphics](http://graphics.latimes.com/2015-in-graphics/)<br/>
-	[Washington Post, 2015: A Year in Graphics](https://www.washingtonpost.com/graphics/national/2015-in-graphics/)<br/>
-	[Propublica, 2015: Year in Visual Storytelling](https://www.propublica.org/article/2015-propublica-visuals-and-interactives-year-in-review)
+   [New York Times, 2015: The Year in Visual Stories and Graphics](http://www.nytimes.com/interactive/2015/us/year-in-interactive-storytelling.html?_r=0)  
+   [The Wall Street Journal, 2015: The Year in Interactive Graphics](http://graphics.wsj.com/wsj-interactives-2015/)  
+   [LA Times, 2015: The year in graphics](http://graphics.latimes.com/2015-in-graphics/)  
+   [Washington Post, 2015: A Year in Graphics](https://www.washingtonpost.com/graphics/national/2015-in-graphics/)  
+   [Propublica, 2015: Year in Visual Storytelling](https://www.propublica.org/article/2015-propublica-visuals-and-interactives-year-in-review)
 
 
 ##### Thursday:
