@@ -25,7 +25,6 @@ We’ll also spend a lot of time talking about design and storytelling, and how 
 	* Read [We're All Publishers Now](http://thescoop.org/archives/2014/11/17/were-all-publishers-now/) by Derek Willis
 
 	* Peruse and be prepared to discuss examples from the last year in news apps:
-
 	[New York Times, 2015: The Year in Visual Stories and Graphics](http://www.nytimes.com/interactive/2015/us/year-in-interactive-storytelling.html?_r=0)<br/>
 	[The Wall Street Journal, 2015: The Year in Interactive Graphics](http://graphics.wsj.com/wsj-interactives-2015/)<br/>
 	[LA Times, 2015: The year in graphics](http://graphics.latimes.com/2015-in-graphics/)<br/>
