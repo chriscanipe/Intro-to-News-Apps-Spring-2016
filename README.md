@@ -12,11 +12,11 @@ In this class you’ll learn basic skills and concepts behind interactive news a
 We’ll also spend a lot of time talking about design and storytelling, and how best to serve our readers. We’ll dive into a few datasets and try to find the stories they tell. Where we go will be up to you as we attempt some good old-fashioned journalism over the course of the semester.
 
 ##### Course goals:
-* Learn the skills to make things for the web, We’ll cover the holy trinity of HTML, CSS and JavaScript, version control with Git, and how to work with tools and libraries that help us make charts, maps and other cool things.
+* Learn the skills to make things for the web, We’ll cover the holy trinity of HTML, CSS and JavaScript, how to save and manage your code with Git, and how to work with tools and libraries that help us make charts, maps and other cool things.
 * Work together to find stories in data and learn how to apply it to web projects.
 * Increase our collective vocabulary for design and interaction while exploring the relationship between content and readers for the web.
 
-##### Week 1, Jan. 19 & 21
+##### WEEK 1 | Jan. 19 & 21
 
 Tuesday:
 * Introductions, talk through basic concepts of news applications.
@@ -29,6 +29,6 @@ Tuesday:
 Thursday:
 	Discuss the reading
 
-* Homework: 
+* !!! Homework: 
 	Code Academy HTML & CSS Basics 
 	Try Git. https://try.github.io/levels/1/challenges/4
