@@ -16,8 +16,7 @@ We’ll also spend a lot of time talking about design and storytelling, and how 
 * Work together to find stories in data and learn how to apply it to web projects.
 * Increase our collective vocabulary for design and interaction while exploring the relationship between content and readers for the web.
 
-
-
+---
 
 ##### WEEK 1 | Jan. 19 & 21
 
