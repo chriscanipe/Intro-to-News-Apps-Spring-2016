@@ -37,3 +37,6 @@ We’ll also spend a lot of time talking about design and storytelling, and how 
 * Homework: 
 	* [Code Academy HTML & CSS Basics, Units 1 - 3](https://www.codecademy.com/learn/web)
 	* [Try Git](https://try.github.io/levels/1/challenges/4)
+
+
+...More to come...
