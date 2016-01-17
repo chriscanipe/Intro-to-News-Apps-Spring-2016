@@ -21,7 +21,7 @@ We’ll also spend a lot of time talking about design and storytelling, and how 
 ##### Tuesday:
 * Introductions, talk through basic concepts of news applications.
 * Homework:
-	* Read Code, the Newsroom and Self Doubt (http://veltman.tumblr.com/post/56132893301/code-the-newsroom-and-self-doubt) by Noah Veltman
+	* Read [Code, the Newsroom and Self Doubt](http://veltman.tumblr.com/post/56132893301/code-the-newsroom-and-self-doubt) by Noah Veltman
 	* Read We're All Publishers Now by Derek Willis
 	* Read Building Your First Webpage
 
