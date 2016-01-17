@@ -39,4 +39,4 @@ We’ll also spend a lot of time talking about design and storytelling, and how 
 	* [Try Git](https://try.github.io/levels/1/challenges/4)
 
 
-...More to come...
+(More to come...)
