@@ -18,17 +18,15 @@ We’ll also spend a lot of time talking about design and storytelling, and how 
 
 ##### WEEK 1 | Jan. 19 & 21
 
-Tuesday:
+##### Tuesday:
 * Introductions, talk through basic concepts of news applications.
-
 * Homework:
 	* Read Code, the Newsroom and Self Doubt by Noah Veltman
 	* Read We're All Publishers Now by Derek Willis
 	* Read Building Your First Webpage
 
-Thursday:
+##### Thursday:
 * Discuss the reading
-
 * Homework: 
 	* Code Academy HTML & CSS Basics 
 	* Try Git. https://try.github.io/levels/1/challenges/4
