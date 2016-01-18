@@ -25,18 +25,20 @@ Grading will be based on the following components:
 </table>
 
 ##### Grading scale
-94-100% A<br/> 	
-90-93% A-<br/>
-88-89% B+<br/>
-84-87% B<br/>
-80-83% B-<br/>
-78-79% C+<br/>
-74-77% C<br/>
-70-73% C-<br/>
-68-69% D+<br/>
-64-67% D<br/>
-63-60% D-<br/>
-59% & below<br/>
+<table>
+	<tr><td>94-100%</td><td>A</td></tr>
+	<tr><td>90-93%</td><td>A-</td></tr>
+	<tr><td>88-89%</td><td>B+</td></tr>
+	<tr><td>84-87%</td><td>B</td></tr>
+	<tr><td>80-83%</td><td>B-</td></tr>
+	<tr><td>78-79%</td><td>C+</td></tr>
+	<tr><td>74-77%</td><td>C</td></tr>
+	<tr><td>70-73%</td><td>C-</td></tr>
+	<tr><td>68-69%</td><td>D+</td></tr>
+	<tr><td>64-67%</td><td>D</td></tr>
+	<tr><td>63-60%</td><td>D-</td></tr>
+	<tr><td>59% & below</td><td>F</td></tr>
+</table>
 
 
 
