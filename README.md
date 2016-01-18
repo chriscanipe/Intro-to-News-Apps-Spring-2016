@@ -67,6 +67,94 @@ We’ll also spend a lot of time talking about design and storytelling, and how 
 -->
 
 
+##### WEEK 3 | Feb. 2 & 4
+
+##### Tuesday
+##### Thursday
+
+
+##### WEEK 4 | Feb. 9 & 11
+
+##### Tuesday
+##### Thursday
+
+
+##### WEEK 5 | Feb. 16 & 18
+
+##### Tuesday
+##### Thursday
+
+
+##### WEEK 6 | Feb. 23 & 25
+
+##### Tuesday
+##### Thursday
+
+
+##### WEEK 7 | March 1 & 3
+
+##### Tuesday
+##### Thursday
+
+
+##### WEEK 8 | March 8 & 10
+
+##### Tuesday
+##### Thursday
+
+
+##### WEEK 9 | March 15 & 17
+
+##### Tuesday
+##### Thursday 
+
+
+##### WEEK 10 | March 22 & 24
+
+##### Tuesday
+##### Thursday
+
+
+##### WEEK 11 | March 29 & 31
+
+##### Tuesday
+##### Thursday
+
+
+##### WEEK 12 | April 5 & 7
+
+##### Tuesday
+##### Thursday
+
+
+##### WEEK 13 | April 12 & 14
+
+##### Tuesday
+##### Thursday
+
+
+##### WEEK 14 | April 19 & 21
+
+##### Tuesday
+##### Thursday
+
+
+##### WEEK 15 | April 26 & 28
+
+##### Tuesday
+##### Tuesday
+
+
+##### WEEK 16 | May 3 & 5
+
+##### Tuesday
+##### Thursday
+
+
+
+
+
+
 
 
 (More to come...)
