@@ -53,7 +53,8 @@ Grading will be based on the following components:
 * Introductions, talk through basic concepts of news applications.
 * Homework:
 	* Read [Code, the Newsroom and Self Doubt](http://veltman.tumblr.com/post/56132893301/code-the-newsroom-and-self-doubt) by Noah Veltman
-	* Read [We're All Publishers Now](http://thescoop.org/archives/2014/11/17/were-all-publishers-now/) by Derek Willis
+	* Read [In Defense of Unicorns](https://medium.com/@chasedavis/in-defense-of-unicorns-4ae1c3cf74f1#.jhj31gfq2) by Chase Davis
+	* Read [New Year's Resolution: Learn to Code](https://www.propublica.org/nerds/item/new-years-resolution-learn-to-code) by Lena Groeger
 
 	* Peruse and be prepared to discuss examples from the last year in news apps:  
 	[New York Times, 2015: The Year in Visual Stories and Graphics](http://www.nytimes.com/interactive/2015/us/year-in-interactive-storytelling.html?_r=0)  
