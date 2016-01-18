@@ -38,7 +38,7 @@ We’ll also spend a lot of time talking about design and storytelling, and how 
 * Discuss the reading
 * Homework: 
 	* [Code Academy HTML & CSS Basics, Units 1 - 3](https://www.codecademy.com/learn/web)
-	* [Try Git](https://try.github.io/levels/1/challenges/4)
+	* [Try Git](https://try.github.io/levels/1/challenges/1)
 
 
 ##### WEEK 2 | Jan. 26 & 28
@@ -56,9 +56,15 @@ We’ll also spend a lot of time talking about design and storytelling, and how 
 	* [Code Academy HTML & CSS Basics, Units 4 - 6](https://www.codecademy.com/learn/web)
 	* [Code Academy Learning the Command Line, Unit 1](https://www.codecademy.com/learn/learn-the-command-line)
 
+<!--
 
+##### WEEK 3 | Feb. 2 & 4
 
+##### Tuesday:
 
+##### Thursday:
+
+-->
 
 
 
