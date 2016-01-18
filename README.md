@@ -44,7 +44,6 @@ Grading will be based on the following components:
 
 
 
-
 ---
 
 ##### WEEK 1 | Jan. 19 & 21
