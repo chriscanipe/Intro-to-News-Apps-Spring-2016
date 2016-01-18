@@ -16,6 +16,33 @@ We’ll also spend a lot of time talking about design and storytelling, and how 
 * Work together to find stories in data and learn how to apply our data to web projects.
 * Increase our collective vocabulary for design and interaction while exploring the relationship between content and readers for the web.
 
+##### Grading
+Grading will be based on the following components:
+<table>
+<tr><td>Weekly assignments and projects</td><td>60%</td></tr>
+<tr><td>Final project</td><td>30%</td></tr>
+<tr><td>Class attendance, participation & engagement</td><td>10%</td></tr>       
+</table>
+
+##### Grading scale
+94-100% A<br/> 	
+90-93% A-<br/>
+88-89% B+<br/>
+84-87% B<br/>
+80-83% B-<br/>
+78-79% C+<br/>
+74-77% C<br/>
+70-73% C-<br/>
+68-69% D+<br/>
+64-67% D<br/>
+63-60% D-<br/>
+59% & below<br/>
+
+
+
+
+
+
 ---
 
 ##### WEEK 1 | Jan. 19 & 21
@@ -58,13 +85,7 @@ We’ll also spend a lot of time talking about design and storytelling, and how 
 
 <!--
 
-##### WEEK 3 | Feb. 2 & 4
 
-##### Tuesday:
-
-##### Thursday:
-
--->
 
 
 ##### WEEK 3 | Feb. 2 & 4
@@ -105,20 +126,20 @@ We’ll also spend a lot of time talking about design and storytelling, and how 
 
 ##### WEEK 9 | March 15 & 17
 
-##### Tuesday
-##### Thursday 
+##### Tuesday 
+##### Thursday No Class, Chris in Europe
 
 
 ##### WEEK 10 | March 22 & 24
 
-##### Tuesday
-##### Thursday
+##### Tuesday, Remote class?
+##### Thursday, Probably no class
 
 
 ##### WEEK 11 | March 29 & 31
 
-##### Tuesday
-##### Thursday
+##### Tuesday SPRING BREAK
+##### Thursday SPRING BREAK
 
 
 ##### WEEK 12 | April 5 & 7
@@ -151,7 +172,7 @@ We’ll also spend a lot of time talking about design and storytelling, and how 
 ##### Thursday
 
 
-
+-->
 
 
 
