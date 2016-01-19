@@ -16,58 +16,6 @@ We’ll also spend a lot of time talking about design and storytelling, and how 
 * Work together to find stories in data and learn how to apply our data to web projects.
 * Increase our collective vocabulary for design and interaction while exploring the relationship between content and readers for the web.
 
-##### Grading
-Grading will be based on the following components:
-<table>
-<tr><td>Weekly assignments and projects</td><td>60%</td></tr>
-<tr><td>Final project</td><td>30%</td></tr>
-<tr><td>Class attendance, participation & engagement</td><td>10%</td></tr>       
-</table>
-
-##### Grading scale — undergrads
-<table>
-	<tr><td>94-100%</td><td>A</td></tr>    
-	<tr><td>90-93%</td><td>A-</td></tr>
-	<tr><td>88-89%</td><td>B+</td></tr>    
-	<tr><td>84-87%</td><td>B</td></tr>
-	<tr><td>80-83%</td><td>B-</td></tr>
-	<tr><td>78-79%</td><td>C+</td></tr>
-	<tr><td>74-77%</td><td>C</td></tr>
-	<tr><td>70-73%</td><td>C-</td></tr>
-	<tr><td>68-69%</td><td>D+</td></tr>
-	<tr><td>64-67%</td><td>D</td></tr>
-	<tr><td>63-60%</td><td>D-</td></tr>
-	<tr><td>59% & below</td><td>F</td></tr>
-</table>
-
-##### Grading scale — graduate students
-<table>
-	<tr><td>94-100%</td><td>A</td></tr>    
-	<tr><td>90-93%</td><td>A-</td></tr>
-	<tr><td>88-89%</td><td>B+</td></tr>    
-	<tr><td>84-87%</td><td>B</td></tr>
-	<tr><td>80-83%</td><td>B-</td></tr>
-	<tr><td>78-79%</td><td>C+</td></tr>
-	<tr><td>74-77%</td><td>C</td></tr>
-	<tr><td>70-73%</td><td>C-</td></tr>
-	<tr><td>69% & below</td><td>F</td></tr>
-</table>
-
-
-##### Accrediting Council on Education in Journalism and Mass Communications professional values and competencies
-After taking this class, students should be able to:
-	* Demonstrate an understanding of professional ethical principles and work ethically in pursuit of truth, accuracy, fairness and diversity;
-	* Think critically, creatively and independently;
-	* Understand concepts and apply theories in the use and presentation of information;
-	* Conduct research and evaluate information by methods appropriate to the communications professions in which they work;
-	* Apply basic numerical and statistical concepts;
-	* Apply current tools and technologies appropriate for the communications professions in which they work, and to understand relevant aspects of the digital world.
-
-
-
-
-
-
 
 ---
 
@@ -210,6 +158,57 @@ After taking this class, students should be able to:
 
 ---
 
+##### Grading
+Grading will be based on the following components:
+<table>
+<tr><td>Weekly assignments and projects</td><td>60%</td></tr>
+<tr><td>Final project</td><td>30%</td></tr>
+<tr><td>Class attendance, participation & engagement</td><td>10%</td></tr>       
+</table>
+
+##### Grading scale — undergrads
+<table>
+	<tr><td>94-100%</td><td>A</td></tr>    
+	<tr><td>90-93%</td><td>A-</td></tr>
+	<tr><td>88-89%</td><td>B+</td></tr>    
+	<tr><td>84-87%</td><td>B</td></tr>
+	<tr><td>80-83%</td><td>B-</td></tr>
+	<tr><td>78-79%</td><td>C+</td></tr>
+	<tr><td>74-77%</td><td>C</td></tr>
+	<tr><td>70-73%</td><td>C-</td></tr>
+	<tr><td>68-69%</td><td>D+</td></tr>
+	<tr><td>64-67%</td><td>D</td></tr>
+	<tr><td>63-60%</td><td>D-</td></tr>
+	<tr><td>59% & below</td><td>F</td></tr>
+</table>
+
+##### Grading scale — graduate students
+<table>
+	<tr><td>94-100%</td><td>A</td></tr>    
+	<tr><td>90-93%</td><td>A-</td></tr>
+	<tr><td>88-89%</td><td>B+</td></tr>    
+	<tr><td>84-87%</td><td>B</td></tr>
+	<tr><td>80-83%</td><td>B-</td></tr>
+	<tr><td>78-79%</td><td>C+</td></tr>
+	<tr><td>74-77%</td><td>C</td></tr>
+	<tr><td>70-73%</td><td>C-</td></tr>
+	<tr><td>69% & below</td><td>F</td></tr>
+</table>
+
+
+##### Accrediting Council on Education in Journalism and Mass Communications professional values and competencies
+After taking this class, students should be able to:
+	* Demonstrate an understanding of professional ethical principles and work ethically in pursuit of truth, accuracy, fairness and diversity;
+	* Think critically, creatively and independently;
+	* Understand concepts and apply theories in the use and presentation of information;
+	* Conduct research and evaluate information by methods appropriate to the communications professions in which they work;
+	* Apply basic numerical and statistical concepts;
+	* Apply current tools and technologies appropriate for the communications professions in which they work, and to understand relevant aspects of the digital world.
+
+
+
+
+
 ##### Attendance and punctuality
 Students are expected to attend class. Students who fail to attend class will miss receiving important information from instructors, as well as missing in-class lessons completely.
  
@@ -266,7 +265,7 @@ If you have special needs as addressed by the Americans with Disabilities Act (A
 
 ##### Intellectual pluralism
 The University community welcomes intellectual diversity and respects student rights. Students who have questions concerning the quality of instruction in this class may address concerns to either the Departmental Chair or Divisional leader or Director of the Office of Students Rights and Responsibilities (http://osrr.missouri.edu/). All students will have the opportunity to submit an anonymous evaluation of the instructor(s) at the end of the course.
- 
+
 
 
 
