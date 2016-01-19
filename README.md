@@ -24,11 +24,11 @@ Grading will be based on the following components:
 <tr><td>Class attendance, participation & engagement</td><td>10%</td></tr>       
 </table>
 
-##### Grading scale
+##### Grading scale — undergrads
 <table>
-	<tr><td>94-100%</td><td>A</td></tr>
+	<tr><td>94-100%</td><td>A</td></tr>    
 	<tr><td>90-93%</td><td>A-</td></tr>
-	<tr><td>88-89%</td><td>B+</td></tr>
+	<tr><td>88-89%</td><td>B+</td></tr>    
 	<tr><td>84-87%</td><td>B</td></tr>
 	<tr><td>80-83%</td><td>B-</td></tr>
 	<tr><td>78-79%</td><td>C+</td></tr>
@@ -39,6 +39,31 @@ Grading will be based on the following components:
 	<tr><td>63-60%</td><td>D-</td></tr>
 	<tr><td>59% & below</td><td>F</td></tr>
 </table>
+
+##### Grading scale — graduate students
+<table>
+	<tr><td>94-100%</td><td>A</td></tr>    
+	<tr><td>90-93%</td><td>A-</td></tr>
+	<tr><td>88-89%</td><td>B+</td></tr>    
+	<tr><td>84-87%</td><td>B</td></tr>
+	<tr><td>80-83%</td><td>B-</td></tr>
+	<tr><td>78-79%</td><td>C+</td></tr>
+	<tr><td>74-77%</td><td>C</td></tr>
+	<tr><td>70-73%</td><td>C-</td></tr>
+	<tr><td>69% & below</td><td>F</td></tr>
+</table>
+
+
+##### Accrediting Council on Education in Journalism and Mass Communications professional values and competencies
+After taking this class, students should be able to:
+	* Demonstrate an understanding of professional ethical principles and work ethically in pursuit of truth, accuracy, fairness and diversity;
+	* Think critically, creatively and independently;
+	* Understand concepts and apply theories in the use and presentation of information;
+	* Conduct research and evaluate information by methods appropriate to the communications professions in which they work;
+	* Apply basic numerical and statistical concepts;
+	* Apply current tools and technologies appropriate for the communications professions in which they work, and to understand relevant aspects of the digital world.
+
+
 
 
 
