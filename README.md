@@ -74,7 +74,7 @@ We’ll also spend a lot of time talking about design and storytelling, and how 
 		* [Everything You Ever Wanted to Know About Elections Scraping](https://source.opennews.org/en-US/learning/elections-scraping/) by By Jeremy B. Merrill and Ken Schwencke
 
 	* Visit and be prepared to talk about these Iowa Caucus results pages:
-		* [WSJ]("http://graphics.wsj.com/elections/2016/iowa-caucus-results/)
+		* [WSJ](http://graphics.wsj.com/elections/2016/iowa-caucus-results/)
 		* [NYT](http://www.nytimes.com/elections/2016/primaries/iowa)
 		* [Washington Post](https://www.washingtonpost.com/2016-election-results/iowa/)
 		* [LA Times](http://graphics.latimes.com/election-2016-iowa-results/)
