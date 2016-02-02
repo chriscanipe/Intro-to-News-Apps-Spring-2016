@@ -68,10 +68,10 @@ We’ll also spend a lot of time talking about design and storytelling, and how 
 * We'll build a basic page with html and css and commit it to our Git repositories.
 *Homework:
 	* Read these:
-		* [How election maps reveal the strange politics of geography](http://www.wired.co.uk/news/archive/2015-04/23/general-election-2015-maps)
-		* [How We Built USA TODAY’s Election Night Maps](https://www.mapbox.com/blog/election-mapping-usatoday/)
-		* [How NPR Designed Their Live Elections News App](https://source.opennews.org/en-US/articles/how-nprs-apps-team-covered-elections/)
-		* Everything You Ever Wanted to Know About Elections Scraping]("https://source.opennews.org/en-US/learning/elections-scraping/")
+		* [How election maps reveal the strange politics of geography](http://www.wired.co.uk/news/archive/2015-04/23/general-election-2015-maps) by Katie Collins, Wired UK
+		* [How We Built USA TODAY’s Election Night Maps](https://www.mapbox.com/blog/election-mapping-usatoday/) by Dave Cole
+		* [How NPR Designed Their Live Elections News App](https://source.opennews.org/en-US/articles/how-nprs-apps-team-covered-elections/) by Alyson Hurt
+		* [Everything You Ever Wanted to Know About Elections Scraping]("https://source.opennews.org/en-US/learning/elections-scraping/") by By Jeremy B. Merrill and Ken Schwencke
 
 	* Visit and be prepared to talk about these Iowa Caucus results pages:
 		* [WSJ]("http://graphics.wsj.com/elections/2016/iowa-caucus-results/)
