@@ -69,8 +69,8 @@ We’ll also spend a lot of time talking about design and storytelling, and how 
 *Homework:
 	* Read these:
 		* [How election maps reveal the strange politics of geography](http://www.wired.co.uk/news/archive/2015-04/23/general-election-2015-maps)
-		* [How We Built USA TODAY’s Election Night Maps]("https://www.mapbox.com/blog/election-mapping-usatoday/")
-		* [How NPR Designed Their Live Elections News App]("https://source.opennews.org/en-US/articles/how-nprs-apps-team-covered-elections/")
+		* [How We Built USA TODAY’s Election Night Maps](https://www.mapbox.com/blog/election-mapping-usatoday/)
+		* [How NPR Designed Their Live Elections News App](https://source.opennews.org/en-US/articles/how-nprs-apps-team-covered-elections/)
 		* Everything You Ever Wanted to Know About Elections Scraping]("https://source.opennews.org/en-US/learning/elections-scraping/")
 
 	* Visit and be prepared to talk about these Iowa Caucus results pages:
