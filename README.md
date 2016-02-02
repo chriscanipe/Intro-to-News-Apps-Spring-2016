@@ -66,7 +66,7 @@ We’ll also spend a lot of time talking about design and storytelling, and how 
 
 ##### Tuesday
 * We'll build a basic page with html and css and commit it to our Git repositories.
-*Homework:
+* Homework:
 	* Read these:
 		* [How election maps reveal the strange politics of geography](http://www.wired.co.uk/news/archive/2015-04/23/general-election-2015-maps) by Katie Collins, Wired UK
 		* [How We Built USA TODAY’s Election Night Maps](https://www.mapbox.com/blog/election-mapping-usatoday/) by Dave Cole
