@@ -20,10 +20,7 @@ We’ll also spend a lot of time talking about design and storytelling, and how 
 
 ##### How to create a Python simple server:
 	1. Navigate to your working directory via Terminal. (By working directory we mean the folder where you keep your working projects — not the project directory itself.)
-	2. Type the following:
-	```
-	python -m SimpleHTTPServer 8888
-	```
+	2. Type the following: <b>python -m SimpleHTTPServer 8888</b>
 	3. Miller Time!
 
 
