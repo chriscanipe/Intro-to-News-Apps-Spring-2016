@@ -4,8 +4,6 @@
 **Office hours**: By appointment
  
 
-
-
 ##### About this course:
 In this class you’ll learn basic skills and concepts behind interactive news applications. What does that mean? Good question! A “news application” can be a lot of things. It could be a slideshow, an interactive map, a chart or or even just a story layout with interactive elements. We’ll cover all of those things and learn how to write code along the way.
 
@@ -18,6 +16,14 @@ We’ll also spend a lot of time talking about design and storytelling, and how 
 
 
 ---
+
+
+How to create a Python simple server:
+1) Navigate to your working directory via Terminal. (By working directory we mean the folder where you keep your working projects — not the project directory itself.)
+2) Type the following: ```python -m SimpleHTTPServer [port]```
+3) Miller Time!
+
+
 
 ##### WEEK 1 | Jan. 19 & 21
 
