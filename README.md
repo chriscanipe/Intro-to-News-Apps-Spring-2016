@@ -48,7 +48,7 @@ We’ll also spend a lot of time talking about design and storytelling, and how 
 * Set up a virtual environment on your desktop
 * Create a basic webpage and commit it to Git
 * Homework:
-	* [Read What is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) by Paul Ford 
+	* Read [What is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) by Paul Ford 
 
 
 ##### Thursday:
@@ -57,7 +57,7 @@ We’ll also spend a lot of time talking about design and storytelling, and how 
 	* [Code Academy HTML & CSS Basics, Units 4 - 6](https://www.codecademy.com/learn/web)
 	* [Code Academy Learning the Command Line, Unit 1](https://www.codecademy.com/learn/learn-the-command-line)
 
-<!--
+
 
 
 
@@ -65,7 +65,34 @@ We’ll also spend a lot of time talking about design and storytelling, and how 
 ##### WEEK 3 | Feb. 2 & 4
 
 ##### Tuesday
+* We'll build a basic page with html and css and commit it to our Git repositories.
+*Homework:
+	* Read these:
+		*[How election maps reveal the strange politics of geography](http://www.wired.co.uk/news/archive/2015-04/23/general-election-2015-maps) from Wired UK 
+		*[How We Built USA TODAY’s Election Night Maps]("https://www.mapbox.com/blog/election-mapping-usatoday/")
+		*[How NPR Designed Their Live Elections News App]("https://source.opennews.org/en-US/articles/how-nprs-apps-team-covered-elections/")
+		* Everything You Ever Wanted to Know About Elections Scraping]("https://source.opennews.org/en-US/learning/elections-scraping/")
+
+	* Visit and be prepared to talk about these Iowa Caucus results pages:
+		WSJ]("http://graphics.wsj.com/elections/2016/iowa-caucus-results/)
+		*[NYT](http://www.nytimes.com/elections/2016/primaries/iowa)
+		*[Washington Post](https://www.washingtonpost.com/2016-election-results/iowa/)
+		*[LA Times](http://graphics.latimes.com/election-2016-iowa-results/)
+		*[Politico](http://www.politico.com/2016-election/results/map/president/iowa)
+		*[Des Moines Register](http://www.desmoinesregister.com/pages/interactives/elections-results-primaries-2016/)
+		*[NPR](https://elections.npr.org/)
+		*[CNN](http://www.cnn.com/election/primaries/states/ia)
+		*[Chicago Tribune](http://www.cnn.com/election/primaries/states/ia)
+		*[Fox News](http://www.foxnews.com/politics/elections/2016/primary-caucus-results/iowa)
+		*[NBC](http://www.nbcnews.com/politics/2016-election/primaries/IA)
+
+	
+
+
 ##### Thursday
+* Discuss the reading
+
+<!--
 
 
 ##### WEEK 4 | Feb. 9 & 11
