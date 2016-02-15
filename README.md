@@ -24,6 +24,11 @@ We’ll also spend a lot of time talking about design and storytelling, and how 
 	3. Miller Time!
 
 
+##### Graduate Assignment:
+Identify an interactive news app that tells a compelling story and allows readers to interact with data. Analyze the design and user experience and how well it allows users to understand the story. Then, identify and interview the developer with the goal of understanding the goals of the project, the challenges that had to be overcome and the lessons learned in the execution and publication of the project.
+* _DUE MARCH 24TH_ (the Thursday before Spring Break).
+
+
 
 ##### WEEK 1 | Jan. 19 & 21
 
@@ -66,8 +71,6 @@ We’ll also spend a lot of time talking about design and storytelling, and how 
 
 
 
-
-
 ##### WEEK 3 | Feb. 2 & 4
 
 ##### Tuesday
@@ -105,19 +108,31 @@ We’ll also spend a lot of time talking about design and storytelling, and how 
 
 
 
-<!--
+
 
 
 ##### WEEK 4 | Feb. 9 & 11
 
 ##### Tuesday
-##### Thursday
+* Class canceled on account of Democracy (New Hampshire Primaries)
 
+##### Thursday
+* We did an in-class JavaScript follow-along, which covered JavaScript objects and arrays, jQuery selectors and For Loops. You can find a [recap here](https://github.com/chriscanipe/exercise-two).		
 
 ##### WEEK 5 | Feb. 16 & 18
 
 ##### Tuesday
+* _Working with JSON data._ We'll cover basic AJAX requests and start playing with some actual data from the [Missouri Department of Elementary & Secondary Education](http://mcds.dese.mo.gov/quickfacts/Pages/District-and-School-Information.aspx).
+* We'll also get into some basic concepts of data visualization through For Loops and CSS.
+* Homework: 
+	* Read [Drawing Conclusions from Data](https://source.opennews.org/en-US/learning/statistically-sound-data-journalism/) by Jonathan Stray
+	* Come up with at least two story ideas based on the Missouri Dept. of Education data.
+
+
+
 ##### Thursday
+* Discuss the reading
+* Talk about story ideas in the Missouri Dept. of Education data
 
 
 ##### WEEK 6 | Feb. 23 & 25
@@ -125,6 +140,8 @@ We’ll also spend a lot of time talking about design and storytelling, and how 
 ##### Tuesday
 ##### Thursday
 
+
+<!--
 
 ##### WEEK 7 | March 1 & 3
 
