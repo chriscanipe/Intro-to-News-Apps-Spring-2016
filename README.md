@@ -124,10 +124,15 @@ Identify an interactive news app that tells a compelling story and allows reader
 ##### Tuesday
 * _Working with JSON data._ We'll cover basic AJAX requests and start playing with some actual data from the [Missouri Department of Elementary & Secondary Education](http://mcds.dese.mo.gov/quickfacts/Pages/District-and-School-Information.aspx).
 * We'll also get into some basic concepts of data visualization through For Loops and CSS.
-* Homework: 
-	* Read [Drawing Conclusions from Data](https://source.opennews.org/en-US/learning/statistically-sound-data-journalism/) by Jonathan Stray
-	* Come up with at least two story ideas based on the Missouri Dept. of Education data.
+* Homework:
+	* For Thursday: 
+		* Read [Drawing Conclusions from Data](https://source.opennews.org/en-US/learning/statistically-sound-data-journalism/) by Jonathan Stray
+		* Come up with at least two story ideas based on the Missouri Dept. of Education data.
 
+	* For Tuesday:
+		* Using the in-class exercise as a guide, create a new and different bar chart from the Columbia Public Schools data. The head, dek and sourceline should reflect the content of the chart and whatever trend or story (or lack thereof) might be evident in the data.
+		* Commit the project to your Git account and send me a link to the repository.
+		* A [more complete](http://chriscanipe.com/news-apps-class-2016/exercise-three/) and thoroughly-documented version of the Frederic Douglass High chart we started in class can be found [here](https://github.com/chriscanipe/exercise-three).
 
 
 ##### Thursday
