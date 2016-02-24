@@ -143,15 +143,38 @@ Identify an interactive news app that tells a compelling story and allows reader
 ##### WEEK 6 | Feb. 23 & 25
 
 ##### Tuesday
+* Review Git and code concepts in class.
+* Homework:
+	* Read: [ProPublica Data Style Guide](https://github.com/propublica/guides/blob/master/news-apps.md)
+	* Read (watch?) and be prepared to discuss in detail: [Remove to Improve Gifs](https://github.com/propublica/guides/blob/master/news-apps.md)
+	http://lenagroeger.com/blog/data-gifs/
+
+	* Review tables markup:
+		* [W3 Schools HTML Tables](http://www.w3schools.com/html/html_tables.asp)
+		* [Bootstrap Table Styles](http://getbootstrap.com/css/#tables)
+
+
+
+
 ##### Thursday
+	* Discuss the reading.
+	* Homework DUE THURSDAY MARCH 3
+		* Make a table using a dataset I'll provide in class utilizing:
+			* A for loop
+			* HTML table markup
+			* Bootstrap styles and style rules covered in the ProPublica reading and the Remove to Improve GIF.
 
 
-<!--
 
 ##### WEEK 7 | March 1 & 3
 
 ##### Tuesday
+	* NO CLASS (Chris will be covering Super Tuesday.)
+
 ##### Thursday
+	* Coding exercise in class.
+
+<!--
 
 
 ##### WEEK 8 | March 8 & 10
