@@ -157,12 +157,12 @@ Identify an interactive news app that tells a compelling story and allows reader
 
 
 ##### Thursday
-	* Discuss the reading.
-	* Homework DUE THURSDAY MARCH 3
-		* Make a table using a dataset I'll provide in class utilizing:
-			* A for loop
-			* HTML table markup
-			* Bootstrap styles and style rules covered in the ProPublica reading and the Remove to Improve GIF.
+* Discuss the reading.
+* Homework DUE THURSDAY MARCH 3
+	* Make a table using a dataset I'll provide in class utilizing:
+		* A for loop
+		* HTML table markup
+		* Bootstrap styles and style rules covered in the ProPublica reading and the Remove to Improve GIF.
 
 
 
