@@ -163,16 +163,16 @@ Identify an interactive news app that tells a compelling story and allows reader
 		* A for loop
 		* HTML table markup
 		* Bootstrap styles and style rules covered in the ProPublica reading and the Remove to Improve GIF.
-
+	* Commit it to your Git repo and send me the link via email.
 
 
 ##### WEEK 7 | March 1 & 3
 
 ##### Tuesday
-	* NO CLASS (Chris will be covering Super Tuesday.)
+* NO CLASS (Chris will be covering Super Tuesday.)
 
 ##### Thursday
-	* Coding exercise in class.
+* Coding exercise in class.
 
 <!--
 
