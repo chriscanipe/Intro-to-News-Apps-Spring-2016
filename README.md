@@ -211,7 +211,7 @@ Identify an interactive news app that tells a compelling story and allows reader
 * Guest lecturer: Jon McClure
 * Intro to D3.js, Part 2.
 
-##### DUE TODAY: [Graduate Assigment](https://github.com/chriscanipe/Intro-to-News-Apps-Spring-2016#graduate-assignment)
+* ##### DUE TODAY: [Graduate Assigment](https://github.com/chriscanipe/Intro-to-News-Apps-Spring-2016#graduate-assignment)
 
 ##### WEEK 11 | March 29 & 31
 
