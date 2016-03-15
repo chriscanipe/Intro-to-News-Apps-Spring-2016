@@ -172,33 +172,55 @@ Identify an interactive news app that tells a compelling story and allows reader
 * NO CLASS (Chris will be covering Super Tuesday.)
 
 ##### Thursday
-* Coding exercise in class.
+* Go over homework in class, expand on table styles.
 
-<!--
 
 
 ##### WEEK 8 | March 8 & 10
 
 ##### Tuesday
+* In class:
+	* Build a table using campaign contributions data from the [Missouri Ethics Commission](http://mec.mo.gov/MEC/Campaign_Finance/CF_SearchLrgContr.aspx).
+	* Add sort, search and pagination functionality with the [DataTables.js](https://datatables.net/) library.
+	* Convert datestrings using the [Moment.js](http://momentjs.com/) library.
+* Repo for reference: [https://github.com/chriscanipe/campaign-donations-table](https://github.com/chriscanipe/campaign-donations-table).
+
 ##### Thursday
+* NO CLASS due to the NICAR conference!
+
 
 
 ##### WEEK 9 | March 15 & 17
 
 ##### Tuesday 
-##### Thursday No Class, Chris in Europe
+* In class:
+	* Mapping with the [Leaflet.js](http://leafletjs.com/reference.html#marker) library!
+
+##### Thursday
+* Guest lecturer: Travis Hartman of Reuters.
+
 
 
 ##### WEEK 10 | March 22 & 24
 
 ##### Tuesday, Remote class?
-##### Thursday, Probably no class
+* Guest lecturer: [Jon McClure](https://twitter.com/JonRMcClure) of the Dallas Morning News
+* Intro to D3.js, Part 1.
 
+##### Thursday, Probably no class
+* Guest lecturer: Jon McClure
+* Intro to D3.js, Part 2.
+
+### DUE TODAY: [Graduate Assigment](https://github.com/chriscanipe/Intro-to-News-Apps-Spring-2016#graduate-assignment)
 
 ##### WEEK 11 | March 29 & 31
 
 ##### Tuesday SPRING BREAK
 ##### Thursday SPRING BREAK
+
+
+<!--
+
 
 
 ##### WEEK 12 | April 5 & 7
