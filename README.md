@@ -29,6 +29,7 @@ Identify an interactive news app that tells a compelling story and allows reader
 * _DUE MARCH 24TH_ (the Thursday before Spring Break).
 
 
+
 ---
 ##### WEEK 1 | Jan. 19 & 21
 
@@ -53,6 +54,7 @@ Identify an interactive news app that tells a compelling story and allows reader
 	* [Try Git](https://try.github.io/levels/1/challenges/1)
 
 
+
 ---
 ##### WEEK 2 | Jan. 26 & 28
 
@@ -68,6 +70,7 @@ Identify an interactive news app that tells a compelling story and allows reader
 * Homework: 
 	* [Code Academy HTML & CSS Basics, Units 4 - 6](https://www.codecademy.com/learn/web)
 	* [Code Academy Learning the Command Line, Unit 1](https://www.codecademy.com/learn/learn-the-command-line)
+
 
 
 
@@ -111,6 +114,7 @@ Identify an interactive news app that tells a compelling story and allows reader
 
 
 
+
 ---
 ##### WEEK 4 | Feb. 9 & 11
 
@@ -118,7 +122,9 @@ Identify an interactive news app that tells a compelling story and allows reader
 * Class canceled on account of Democracy (New Hampshire Primaries)
 
 ##### Thursday
-* We did an in-class JavaScript follow-along, which covered JavaScript objects and arrays, jQuery selectors and For Loops. You can find a [recap here](https://github.com/chriscanipe/exercise-two).		
+* We did an in-class JavaScript follow-along, which covered JavaScript objects and arrays, jQuery selectors and For Loops. You can find a [recap here](https://github.com/chriscanipe/exercise-two).
+
+
 ---
 ##### WEEK 5 | Feb. 16 & 18
 
@@ -139,6 +145,7 @@ Identify an interactive news app that tells a compelling story and allows reader
 ##### Thursday
 * Discuss the reading
 * Talk about story ideas in the Missouri Dept. of Education data
+
 
 ---
 ##### WEEK 6 | Feb. 23 & 25
@@ -166,6 +173,7 @@ Identify an interactive news app that tells a compelling story and allows reader
 		* Bootstrap styles and style rules covered in the ProPublica reading and the Remove to Improve GIF.
 	* Commit it to your Git repo and send me the link via email.
 
+
 ---
 ##### WEEK 7 | March 1 & 3
 
@@ -174,6 +182,7 @@ Identify an interactive news app that tells a compelling story and allows reader
 
 ##### Thursday
 * Go over homework in class, expand on table styles.
+
 
 
 ---
@@ -188,6 +197,7 @@ Identify an interactive news app that tells a compelling story and allows reader
 
 ##### Thursday
 * NO CLASS due to the NICAR conference!
+
 
 
 ---
@@ -207,6 +217,7 @@ Identify an interactive news app that tells a compelling story and allows reader
 	* Binding data
 	* Making a scatterplot
 
+
 ---
 ##### WEEK 10 | March 22 & 24
 
@@ -219,6 +230,7 @@ Identify an interactive news app that tells a compelling story and allows reader
 	* Intro to D3.js, Part 2.
 
 * ##### DUE TODAY: [Graduate Assigment](https://github.com/chriscanipe/Intro-to-News-Apps-Spring-2016#graduate-assignment)
+
 ---
 ##### WEEK 11 | March 29 & 31
 
@@ -229,11 +241,13 @@ Identify an interactive news app that tells a compelling story and allows reader
 <!--
 
 
+
 ---
 ##### WEEK 12 | April 5 & 7
 
 ##### Tuesday
 ##### Thursday
+
 
 ---
 ##### WEEK 13 | April 12 & 14
@@ -241,17 +255,20 @@ Identify an interactive news app that tells a compelling story and allows reader
 ##### Tuesday
 ##### Thursday
 
+
 ---
 ##### WEEK 14 | April 19 & 21
 
 ##### Tuesday
 ##### Thursday
 
+
 ---
 ##### WEEK 15 | April 26 & 28
 
 ##### Tuesday
 ##### Tuesday
+
 
 ---
 ##### WEEK 16 | May 3 & 5
