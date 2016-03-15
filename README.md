@@ -197,19 +197,19 @@ Identify an interactive news app that tells a compelling story and allows reader
 	* Mapping with the [Leaflet.js](http://leafletjs.com/reference.html#marker) library!
 
 ##### Thursday
-* Guest lecturer: Travis Hartman of Reuters.
+* Guest speaker: [Travis Hartman](http://travishartman.com/port/) of Reuters.
 
 
 
 ##### WEEK 10 | March 22 & 24
 
 ##### Tuesday, Remote class?
-* Guest lecturer: [Jon McClure](https://twitter.com/JonRMcClure) of the Dallas Morning News
-* Intro to D3.js, Part 1.
+* Guest speaker: [Jon McClure](https://twitter.com/JonRMcClure) of the Dallas Morning News
+	* Intro to D3.js, Part 1.
 
 ##### Thursday, Probably no class
-* Guest lecturer: Jon McClure
-* Intro to D3.js, Part 2.
+* Guest speaker: Jon McClure
+	* Intro to D3.js, Part 2.
 
 * ##### DUE TODAY: [Graduate Assigment](https://github.com/chriscanipe/Intro-to-News-Apps-Spring-2016#graduate-assignment)
 
