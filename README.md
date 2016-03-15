@@ -198,7 +198,13 @@ Identify an interactive news app that tells a compelling story and allows reader
 
 ##### Thursday
 * Guest speaker: [Travis Hartman](http://travishartman.com/port/) of Reuters.
-
+* Homework: Read [Scott Murray's D3 Tutorials](http://alignedleft.com/tutorials/d3/an-svg-primer), especially:
+	* Fundamentals
+	* Setup
+	* Adding elements
+	* Chaining methods
+	* Binding data
+	* Making a scatterplot
 
 
 ##### WEEK 10 | March 22 & 24
