@@ -265,9 +265,9 @@ Identify an interactive news app that tells a compelling story and allows reader
 	* Final Project Proposal (Due Thursday April 14):
 		* Identify a story and a dataset you'd like to present visually.
 		* Proposal should satisfy three requirements:
-			1. Journalistic value. Does the data tell a compelling story?
-			2. Visual impact. Does the story have a compelling visual element?
-			3. Doability. Can you build a news application using libraries and methods we've used in class?
+			1) Journalistic value. Does the data tell a compelling story?
+			2) Visual impact. Does the story have a compelling visual element?
+			3) Doability. Can you build a news application using libraries and methods we've used in class?
 		* Submit a summary of the project and a link to the dataset to me and Mike via email.
 		* Please feel free to reach out to me if you need ideas, or if you have questions about how to approach a project.
 
