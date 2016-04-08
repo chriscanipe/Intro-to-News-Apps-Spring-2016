@@ -238,7 +238,7 @@ Identify an interactive news app that tells a compelling story and allows reader
 ##### Thursday SPRING BREAK
 
 
-<!--
+
 
 
 
@@ -246,10 +246,32 @@ Identify an interactive news app that tells a compelling story and allows reader
 ##### WEEK 12 | April 5 & 7
 
 ##### Tuesday
+* In class: Catch up on D3.js.
+* Spend time talking about svg elements, scales and axis.
+
+
 ##### Thursday
+* More time with D3: bar chart from SAT data.
+* Talk about bl.ocks examples.
+
+* Homework:
+	* Make a Line Chart (Due Tuesday April 12):
+		* Build a line chart using [this bl.ocks example](http://bl.ocks.org/mbostock/3883245) as a starting point. 
+		* Start by cloning [this repository](https://github.com/chriscanipe/columbia-unemployment).
+		* The data is in the Excel file. You'll need to format it to tsv, csv or json. It's up to you. 
+		* Scales hint: You'll need to [parse the dates](https://github.com/mbostock/d3/wiki/Time-Formatting) differently than in the example.
+
+	* Final Project Proposal (Due Thursday April 14):
+		* Identify a story and a dataset you'd like to present visually.
+		* Proposal should satisfy three requirements:
+			1. Journalistic value. Does the data tell a compelling story?
+			2. Visual impact. Does the story have a compelling visual element?
+			3. Doability. Can you build a news application using libraries and methods we've used in class?
+		* Submit a summary of the project and a link to the dataset to me and Mike via email.
+		* Feel free to reach out if you have any questions!
 
 
----
+<!-- ---
 ##### WEEK 13 | April 12 & 14
 
 ##### Tuesday
@@ -274,16 +296,11 @@ Identify an interactive news app that tells a compelling story and allows reader
 ##### WEEK 16 | May 3 & 5
 
 ##### Tuesday
-##### Thursday
-
-
--->
+##### Thursday -->
 
 
 
 
-
-(More to come...)
 
 
 
