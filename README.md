@@ -251,8 +251,9 @@ Identify an interactive news app that tells a compelling story and allows reader
 
 
 ##### Thursday
-* More time with D3: bar chart from SAT data.
-* Talk about bl.ocks examples.
+* In Class:
+	* Ordinal scales and bars using the SAT data.
+	* Why do bl.ocks examples exist? How to start a D3 project and where to look for solutions.
 
 * Homework:
 	* Make a Line Chart (Due Tuesday April 12):
@@ -268,8 +269,7 @@ Identify an interactive news app that tells a compelling story and allows reader
 			2. Visual impact. Does the story have a compelling visual element?
 			3. Doability. Can you build a news application using libraries and methods we've used in class?
 		* Submit a summary of the project and a link to the dataset to me and Mike via email.
-		* Feel free to reach out if you have any questions!
-
+		* Please feel free to reach out to me if you need ideas, or if you have questions about how to approach a project.
 
 <!-- ---
 ##### WEEK 13 | April 12 & 14
