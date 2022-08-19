@@ -78,7 +78,7 @@ Identify an interactive news app that tells a compelling story and allows reader
 ##### WEEK 3 | Feb. 2 & 4
 
 ##### Tuesday
-* We'll build a basic page with html and css and commit it to our Git repositories.
+* We'll build a basic page with [html](https://www.scaler.com/topics/html/) and css and commit it to our Git repositories.
 * Homework:
 	* Read these:
 		* [How election maps reveal the strange politics of geography](http://www.wired.co.uk/news/archive/2015-04/23/general-election-2015-maps) by Katie Collins, Wired UK
